@@ -1,10 +1,7 @@
 # Pìxel Art in PYTHON
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlondlacerda/pixel-art-in-python?color=6E40C9&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/marlondlacerda/pixel-art-in-python?color=2b7489&style=flat-square">
-  <a href="https://github.com/marlondlacerda/pixel-art-in-python/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlondlacerda/pixel-art-in-python?color=6E40C9&style=flat-square">
-  </a>
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlondlacerda/pixel-art-in-python?color=6E40C9&style=flat-square"><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/marlondlacerda/pixel-art-in-python?color=2b7489&style=flat-square">
+<a href="https://github.com/marlondlacerda/pixel-art-in-python/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlondlacerda/pixel-art-in-python?color=6E40C9&style=flat-square"></a>
 
 <img align="right" src="public/img/pixelart_python.png" width="50%" alt="python in pixel art">
 
