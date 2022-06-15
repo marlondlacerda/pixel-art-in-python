@@ -31,7 +31,7 @@
 
 Dos mesmos criadores de [Pixel Art na Web](https://github.com/marlondlacerda/trybe-projetos/tree/main/fundamentals/bloco_5/pixel-art#readme), vem aí sua primeira versão em **Python**.
 
-Comecei a estudar Python esse mês de junho de 2022 e para praticar e treinar resolvi criar essa aplicação, resolvi pegar um projeto antigo e refazer ele em Python.
+Comecei a estudar Python esse mês de junho de 2022 e para praticar e treinar resolvi criar uma aplicação que tivesse interface gráfica. Para ser um processo rápido, ao invés de criar algo do zero, resolvi pegar um projeto antigo e refazer ele em Python.
 
 Usei Qt Designer e PyQt5 para criar a interface, apesar de ter demorado a entender como funciona, isso facilitou a minha vida.
 
