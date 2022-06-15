@@ -6,7 +6,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlondlacerda/pixel-art-in-python?color=6E40C9&style=flat-square">
   </a>
 
-<img align="right" src="public/img/pixelart_python.jpg" width="50%" alt="python in pixel art">
+<img align="right" src="public/img/pixelart_python.png" width="50%" alt="python in pixel art">
 
 ## Tópicos
 
