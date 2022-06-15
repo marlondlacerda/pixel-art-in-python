@@ -1,12 +1,12 @@
 # Pìxel Art in PYTHON
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlondlacerda/pokedex_backend?color=6E40C9&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/marlondlacerda/pokedex_backend?color=2b7489&style=flat-square">
-  <a href="https://github.com/marlondlacerda/pokedex_backend/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlondlacerda/pokedex_backend?color=6E40C9&style=flat-square">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlondlacerda/pixel-art-in-python?color=6E40C9&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/marlondlacerda/pixel-art-in-python?color=2b7489&style=flat-square">
+  <a href="https://github.com/marlondlacerda/pixel-art-in-python/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlondlacerda/pixel-art-in-python?color=6E40C9&style=flat-square">
   </a>
 
-<img align="right" src="https://www.pngkit.com/png/full/23-232103_pokeball-clipart-tiny-gif-pokeball.png" width="50%" alt="Trybe">
+<img align="right" src="public/img/pixelart_python.jpg" width="50%" alt="python in pixel art">
 
 ## Tópicos
 
@@ -57,11 +57,11 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 ## Instalação e uso
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone git@github.com:marlondlacerda/pokedex_backend.git
+git clone git@github.com:marlondlacerda/pixel-art-in-python.git
 # ou use a opção de download
 
 # Entre na pasta web com 
-cd pokedex_backend
+cd pixel-art-in-python
 
 # Crie e ative o ambiente virtual com o comando
 python3 -m venv .venv && source .venv/bin/activate
